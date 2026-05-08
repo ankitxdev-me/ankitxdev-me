@@ -1,6 +1,6 @@
 💫 About Me:
 🔭 I’m currently working on  <br>Building AI/ML projects, AI agents, and improving my open-source contributions.<br><br>👯 I’m looking to collaborate on  <br>Open-source projects related to AI/ML, Web Development, Blockchain, and Node.js.<br><br>🤝 I’m looking for help with  <br>Advanced AI/ML concepts, scalable backend systems, and real-world open-source workflows.<br><br>🌱 I’m currently learning  <br>Artificial Intelligence, Machine Learning, Data Science, and modern backend architectures.<br><br>💬 Ask me about  <br>Web Development, Node.js, Blockchain, Open Source, and building full-stack projects.<br><br>⚡ Fun fact  <br>I started web development 3 years ago and now I’m exploring AI agents and intelligent systems while pursuing my B.Tech in CSE (Data Science) at NIAT.
-<br>
+<hr>
 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankitxtech.me) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 <br>
